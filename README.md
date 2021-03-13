@@ -1,4 +1,4 @@
-# Devops-to-SRE
+# DevOps-to-SRE
 A personal list for DevOps and SRE tools, showcases and guides that I've used in production or plan to use soon. 
 
 Self hosted tools that provide excellent external authentication integration will be used rather than SAAS ones, as larger organizations typically want to own their data and may have security requirements preventing the use of SAAS. SAAS only options will be marked as such.
