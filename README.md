@@ -87,6 +87,7 @@ In my opinion engineers are most productive when documentation is kept as close 
 * [What Is SRE?](https://www.redhat.com/en/topics/devops/what-is-sre)
 * [Google SRE Books](https://sre.google/books/)
 * [Google SRE Resources](https://sre.google/resources/)
+* [Breaking down SRE/DevOps into 5 key areas](https://hernan-david-hd.medium.com/breaking-down-sre-devops-into-5-key-areas-5aacf40e8392)
 
 ## Existing awesome lists
 
