@@ -9,6 +9,10 @@ The only cases this won't apply is where there's no reasonable self hosted alter
 
 # DevOps
 
+![DevOps Loop](images/devops-suse.png "DevOps Loop")
+
+* [What is DevOps?](https://theagileadmin.com/what-is-devops/)
+
 ## Existing awesome list
 
 * [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)
@@ -70,7 +74,7 @@ The only cases this won't apply is where there's no reasonable self hosted alter
 
 ## Documentation Management
 
-In my view engineers are most productive when documentation is kept as close to source code as possible.
+In my opinion engineers are most productive when documentation is kept as close to source code as possible.
 
 * [BookStack](https://www.bookstackapp.com/) - not git compatible but you could set git up to pull into the source directory on a schedule
 * [Gitbook](https://www.gitbook.com/) (SAAS)
@@ -78,8 +82,20 @@ In my view engineers are most productive when documentation is kept as close to 
 
 # Site Reliability Engineering (SRE)
 
-## Existing awesome list
+![sre-venn-digram](images/sre-venn-diagram.png "SRE Venn Diagram")
+
+* [What Is SRE?](https://www.redhat.com/en/topics/devops/what-is-sre)
+* [Google SRE Books](https://sre.google/books/)
+* [Google SRE Resources](https://sre.google/resources/)
+
+## Existing awesome lists
 
 * [awesome-sre](https://github.com/dastergon/awesome-sre)
+* [how-they-sre](https://github.com/upgundecha/howtheysre)
 
-WIP
+## Monitoring & Alerting
+
+* [Datadog](https://www.datadoghq.com/) (SAAS)
+* [Prometheus](https://prometheus.io/), [Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/) & [Grafana](https://grafana.com/oss/)
+    * [Prometheus Exporters](https://prometheus.io/docs/instrumenting/exporters/)
+* [Pager Duty](https://www.pagerduty.com/pricing/) (SAAS)
