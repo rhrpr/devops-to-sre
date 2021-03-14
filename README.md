@@ -2,7 +2,7 @@
 A personal list for DevOps and SRE tools, showcases and guides that I've used in production or plan to use soon. 
 
 Self hosted tools that provide excellent external authentication integration will be used rather than SAAS ones, as larger organizations typically want to own their data and may have security requirements preventing the use of SAAS. SAAS only options will be marked as such.
-The only cases this won't apply is where there's no reasonable self hosted alternative and the utility of the tool is that high that making a case for it could be considered.
+The only cases this won't apply is where there's no reasonable self hosted alternative or the utility of the tool is that high that making a case for it could be considered.
 
 ## Existing awesome list
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
