@@ -17,6 +17,35 @@ The only cases this won't apply is where there's no reasonable self hosted alter
 
 * [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)
 
+## Continuous Integration / Continous Delivery (CI/CD)
+
+* [Atlassian Bamboo](https://confluence.atlassian.com/bamboo/bamboo-documentation-289276551.html) (SAAS or on Prem, being deprecated in favour of SAAS Bitbucket pipelines)
+    * [Bamboo YAML/Java Specs](https://docs.atlassian.com/bamboo-specs-docs/latest/)
+* [Azure DevOps Pipelines](https://docs.microsoft.com/en-gb/azure/devops/pipelines/?view=azure-devops) (SAAS)
+* [GitLab CI](https://docs.gitlab.com/ee/ci/) (SAAS or on Prem)
+* [Jetbrains Teamcity](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
+
+## Config Managment
+
+### Chef
+* [Chef](https://docs.chef.io/)
+#### Test Driven Development for Chef
+* Integration Testing - [Test Kitchen](https://kitchen.ci/)
+    * [Chef Docs](https://docs.chef.io/workstation/kitchen/)
+* Unit Tests - [Rspec](https://docs.chef.io/workstation/chefspec/)
+    * [repo](https://github.com/chefspec/chefspec)
+    * [examples](https://github.com/chefspec/chefspec/tree/master/examples)
+* Style/Linter - [Cookstyle](https://docs.chef.io/workstation/cookstyle/)
+    * [repo](https://github.com/chef/cookstyle)
+
+### Puppet
+
+* [Puppet](https://puppet.com/docs/)
+
+### Ansible
+
+* [Ansible](https://docs.ansible.com/)
+
 ## Infrastucture As Code
 
 ### Terraform
@@ -43,26 +72,6 @@ The only cases this won't apply is where there's no reasonable self hosted alter
 
 * [Terraform in Regulated Financial Services](https://www.youtube.com/watch?v=DaqSQ59QNWw)
 
-## Config Managment
-
-### Chef
-* [Chef](https://docs.chef.io/)
-#### Test Driven Development for Chef
-* Integration Testing - [Test Kitchen](https://kitchen.ci/)
-    * [Chef Docs](https://docs.chef.io/workstation/kitchen/)
-* Unit Tests - [Rspec](https://docs.chef.io/workstation/chefspec/)
-    * [repo](https://github.com/chefspec/chefspec)
-    * [examples](https://github.com/chefspec/chefspec/tree/master/examples)
-* Style/Linter - [Cookstyle](https://docs.chef.io/workstation/cookstyle/)
-    * [repo](https://github.com/chef/cookstyle)
-
-### Puppet
-
-* [Puppet](https://puppet.com/docs/)
-
-### Ansible
-
-* [Ansible](https://docs.ansible.com/)
 
 ## Secrets Management
 
