@@ -72,6 +72,9 @@ The only cases this won't apply is where there's no reasonable self hosted alter
 
 * [Terraform in Regulated Financial Services](https://www.youtube.com/watch?v=DaqSQ59QNWw)
 
+## Package Management
+
+* [Artifactory](https://www.jfrog.com/confluence/display/JFROG/JFrog+Artifactory)
 
 ## Secrets Management
 
