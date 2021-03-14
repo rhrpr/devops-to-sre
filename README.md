@@ -17,7 +17,7 @@ The only cases this won't apply is where there's no reasonable self hosted alter
 
 * [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)
 
-## Continuous Integration / Continous Delivery (CI/CD)
+## Continuous Integration / Continuous Delivery (CI/CD)
 
 * [Atlassian Bamboo](https://confluence.atlassian.com/bamboo/bamboo-documentation-289276551.html) (SAAS or on Prem, being deprecated in favour of SAAS Bitbucket pipelines)
     * [Bamboo YAML/Java Specs](https://docs.atlassian.com/bamboo-specs-docs/latest/)
