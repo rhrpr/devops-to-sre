@@ -66,7 +66,7 @@ The only cases this won't apply is where there's no reasonable self hosted alter
 * [Blast-Radius](https://github.com/28mm/blast-radius) - potentailly defunct, doesn't work for large scale projects
 * [Infracost](https://infracost.io/) (SAAS) - Quite new, supports some AWS resources with more provider support coming soon
 * [Terraform Visual](https://github.com/hieven/terraform-visual) - haven't tested in some time
-
+* [Checkov](https://www.checkov.io/1.Introduction/Getting%20Started.html)
 
 #### Videos
 
